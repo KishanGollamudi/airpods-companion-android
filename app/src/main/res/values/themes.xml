@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base theme required for resource linking -->
+    <style name="Theme.AirPodsCompanion" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Compose will handle UI theming -->
+    </style>
+
+</resources>
+

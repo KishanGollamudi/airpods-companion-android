@@ -1,0 +1,27 @@
+cat > .gitignore << 'EOF'
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Logs & heap dumps
+*.log
+*.hprof
+
+# APKs
+*.apk
+
+# Kotlin
+.kotlin/
+EOF
+
